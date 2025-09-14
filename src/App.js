@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <>bruh</>
+    <h1 className="text-1xl font-bold underline">bruh</h1>
   );
 }
 
