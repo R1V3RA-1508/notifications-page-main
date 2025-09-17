@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className='flex items-center text-center'>
+    <div className='flex items-center'>
       <header className='flex flex-row justify-between'>
         <div class="notif-title">Notifications <span id="counter">3</span></div>
         <div class="mark-read">Mark all as read</div>
